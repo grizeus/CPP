@@ -1,0 +1,1 @@
+add_executable(l1 "main.cpp")
