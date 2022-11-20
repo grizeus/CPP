@@ -1,8 +1,0 @@
-/mnt/b/Down/code/CPP/CPP/builds/CMakeFiles/rebuild_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/CMakeFiles/edit_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson1/CMakeFiles/rebuild_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson1/CMakeFiles/edit_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson1/CMakeFiles/l1.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson2/CMakeFiles/rebuild_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson2/CMakeFiles/edit_cache.dir
-/mnt/b/Down/code/CPP/CPP/builds/lesson2/CMakeFiles/l2.dir
