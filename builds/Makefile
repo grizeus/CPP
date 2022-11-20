@@ -123,6 +123,19 @@ l1/fast:
 	$(MAKE) -f lesson1/CMakeFiles/l1.dir/build.make lesson1/CMakeFiles/l1.dir/build
 .PHONY : l1/fast
 
+#=============================================================================
+# Target rules for targets named l2
+
+# Build rule for target.
+l2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 l2
+.PHONY : l2
+
+# fast build rule for target.
+l2/fast:
+	$(MAKE) -f lesson2/CMakeFiles/l2.dir/build.make lesson2/CMakeFiles/l2.dir/build
+.PHONY : l2/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -132,6 +145,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... l1"
+	@echo "... l2"
 .PHONY : help
 
 

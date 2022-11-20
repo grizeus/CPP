@@ -1,8 +1,7 @@
 #pragma once
 #include <iostream>
 
-struct foo
-{
+struct foo{
     int a;
     void print(){
         std::cout << a << std::endl;
